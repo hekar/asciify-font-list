@@ -17,6 +17,12 @@ npm start
 
 # Fonts
 
+Printing [phrase](https://github.com/hekar/asciify-font-list/blob/master/index.js#L8): 'abcdefghijklmnopqrstuvwxyz'.
+
+Looks better in a terminal. If your monitor has a resolution of 1920 (width) or less,
+either reduce the font size in the terminal or
+change the phrase to the characters of interest.
+
 ```
 3x5
 
